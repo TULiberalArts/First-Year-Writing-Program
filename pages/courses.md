@@ -1,6 +1,6 @@
 ---
-title: Graduate
-permalink: "/graduate/"
+title: Courses
+permalink: "/courses/"
 layout: page
 keywords: ''
 description: >- 
