@@ -26,6 +26,10 @@ sidebar-content: > #
    [(215) 204-1566](tel:2152041566)  
    [elizabeth.kim@temple.edu](mailto:elizabeth.kim@temple.edu)  
 ---
+English 0701 and English 0802 and the ESL equivalents form a year-long sequence designed to introduce students to academic discourse. Entering first-year students are either placed into the 0701/0802 sequence, placed only in 0802, or exempted from first-year writing courses entirely.
+
+Placement into First Year Writing courses is determined by Institutional Research and Assessment. Information on English placement can be found here. Questions about placement can be directed to [placements@temple.edu](placements@temple.edu) or [215-204-8611](tel:2152048611). 
+
 ## English 0701-Introduction to Academic Discourse
 
 [English 0701](http://bulletin.temple.edu/courses/eng/) focuses on writing within a single theme and disciplinary approach. Students’ final portfolios include four sequenced assignments, journal entries, and peer critiques. One typical syllabus guides students through a semester-long series of readings and writing assignments about gender. Revision is emphasized. English 0701 is, in principle, a course which requires multiple drafts of papers from students, and works on building critical reading and writing skills. The focus of the course is to prepare students for success in the kinds of academic reading and writing they will be asked to do in the University.
