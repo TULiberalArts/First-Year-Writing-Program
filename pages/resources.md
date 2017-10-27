@@ -1,7 +1,8 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
+keywords: ''
+description: >- 
 layout: page
 published: false
 ---
