@@ -26,10 +26,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/first-year-writing-program
-[travis-img]: https://travis-ci.org/TULiberalArts/first-year-writing-program.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/First-Year-Writing-Program
+[travis-img]: https://travis-ci.org/TULiberalArts/First-Year-Writing-Program.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/first-year-writing-program/issues
+[issue]: https://github.com/TULiberalArts/First-Year-Writing-Program/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/first-year-writing-program
+[prose]: https://prose.io/#TULiberalArts/First-Year-Writing-Program
 [md]: http://whatismarkdown.com/
