@@ -1,4 +1,4 @@
 s3_id: <%= ENV['AWS_ACCESS_KEY'] %>
 s3_secret: <%= ENV['AWS_SECRET_KEY'] %>
-s3_bucket: tucla-portuguese
-s3_key_prefix: portuguese
+s3_bucket: tucla-first-year-writing-program
+s3_key_prefix: first-year-writing-program

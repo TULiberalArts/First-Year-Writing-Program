@@ -1,12 +1,12 @@
-# Portuguese
+# First Year Writing Program
 
 [![Build Status][travis-img]][travis]
 
-Portuguese is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+First Year Writing Program is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/portuguese/ |
+| Development | https://develop.cla.temple.edu/first-year-writing-program/ |
 | Production |  |
 
 ## Content Structure
@@ -26,10 +26,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Portuguese
-[travis-img]: https://travis-ci.org/TULiberalArts/Portuguese.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/first-year-writing-program
+[travis-img]: https://travis-ci.org/TULiberalArts/first-year-writing-program.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Portuguese/issues
+[issue]: https://github.com/TULiberalArts/first-year-writing-program/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Portuguese
+[prose]: https://prose.io/#TULiberalArts/first-year-writing-program
 [md]: http://whatismarkdown.com/

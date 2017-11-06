@@ -16,11 +16,10 @@ script:
 - 'wget -O ./_data/profiles.csv $(bundle exec yaml get faculty-feed -F=_config.yml) || :'
 - 'wget -O ./_data/media-mentions.csv $(bundle exec yaml get media-mentions-feed -F=_config.yml) || :'
 - bundle exec jekyll build
-- bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href
-  --external_only --only-4xx --http-status-ignore 429
+- bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only
+  --only-4xx --http-status-ignore 429
 after_success: s3_website push
 notifications:
   slack:
-    rooms:
-      - secure: YidOiqadKPTiBoLShy8H/I9dBmN1py0k4PLAzwtG3ayV784wFQ34OKE+QnDDX4g+5UeM9L67jGCvfLapz14fQyzkXD68Dejho0YKC8Cd1aipTK8bnM+VXocAD78x2fpFtG7lgkws2sfR+caKJ7P3JRCst8G2y36cjsi4z6Weim17ViFeBcD4uP3suJTaHy6BMXPx27J3Ae30/xz4Ex1nnU+l22amMAnTuhcuq6pBD5Ane8dKSe1Mo5Ro7VHt0mGfAz37ee27PMuOJIPNTOM4acvedNfW/XDIwiUt7fVd075KaimmXM65aYTROFoMErtQFK8QPigZx+hE4tbgtXsPuKA/ZmEDRUOlnP5ndZYk8Ymf/K03K0/1ks9JDBmeZiXPLZgwPW7zEebKfFvaNiFuDe0tCWudMRqUfWPPwet1td6P8AgoFwYosX8NFolvpG5LoTIO5NHQm5sy3gjQP2kXE2jUFUs12F83wmGWtK34BTSx3K1tcgMWVYgZtB48anSE+qlTF+JNHpJn+BHB4F2EUAyDFTHVHxyLFVfXbwGTQhoVBOLvfgFh9Qek+WSs8fKSGmRyLHDzBstjGAwUc9CjPk+SEB8guWfRXz4kVq+tvN4eYk4g08ZihLxyC54ymMppwjmIikOeJlHcUmg0giTwZh9iO0MHWNeeQ0nfJSedD+Q=
+    secure: v+9zE+mPaRBpfnYKUzpTKvHJDHdDAGERSob0rdoXDd3GAiP1aOF1b7U740cholA2KPpahvzB8kO1UTl27/N7kOWoJvNBBn5tngiA60o1CWyp3Xu1RKugfkO8rniYmn6vPNl9s7jjZKUeKKQRRm46jef2hzVQD8c3TyNGI4wzVvz82JMp6XdqVF5cfK8aF+VgUj/rodHqc8yoR2qXg1T0OzNTOnSDJNaCkMygg6cSdT1YyhvshVj8WPtkwem2ulChogGPDUnJhxKAMn886/Zn+/Tctwa6xuRQ6+BAxBanAuIscvvJCsrXsvyjzNDZOZlKcwTQtv6mmmaTE/nKDPpAkuBd3lvFzwznk43uwtU6b5i4WVNGZ4KwdqTq+ptp1hR6TDCeK1puRsAq1/gHbcEsgc/hKkBT3rHqYOKSEeAV5kuxl8Sdop3UtlecoB29h2pwMC8hz6nHrHQKUB2FTo6NHa8lc6s72B7L5yVEjatJk1P7DSKg7vdlz+2biHQb2IWijYbfZJFALH98LJyAoNi+NnuyvTn83EG+UTnR2yVLnv18Kq6hliseUUUacflpgrWsl2vSKXULnXn0IdHwjb+HB1Ht5ldqIBnwa5pqxmbUqDg/cZ8IOkpFXXjqEUp/Ttp0rdj5f6XTs955HbU8P6/Al4zD70xGgZiA/coShfFcaU8=
     on_success: always
