@@ -5,7 +5,7 @@ layout: home3
 description: >-
 keywords: ''
 feature: true
-feature-title: Your path to analytical reading and writing begins here!
+feature-title: Your Path to Analytical Reading and Writing Begins Here!
 feature-image: media/FYWP hero_bg.png
 feature-body: >-
  Our program is designed to introduce you to college-level reading, writing and thinking to ensure 
