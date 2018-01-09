@@ -4,9 +4,9 @@ permalink: /
 layout: home3
 description: >-
 keywords: ''
-feature: 
+feature: true
 feature-title: 
-feature-image: media/FYWP image.jpeg
+feature-image: media/FYWP hero_bg.png
 feature-body: >-
  Need a short description to introduce
 published: true
