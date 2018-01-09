@@ -9,10 +9,30 @@ feature-title: null
 feature-image: null
 feature-body: null
 published: true
+sidebar: true
+sidebar-content: | 
+  **Director:**  
+   Rachael Groner     
+   [(215)204-2212](tel:2152042212)    
+   [rgroner@temple.edu](mailto:rgroner@temple.edu)    
+   
+   ___
+   
+   **Associate Director:**  
+   Cate Almon   
+   [(215)204-1820](tel:2152041820)    
+   [calmon@temple.edu](mailto:calmon@temple.edu)  
+   
+   ___
+   
+   **Composition Assistant:**  
+   Darla Himeles    
+   [(215) 204-1566](tel:2152041566)  
+   [darla.himeles@temple.edu](mailto:darla.himeles@temple.edu)  
 ---
+Welcome to First Year Writing at Temple University! Our program is designed to introduce you to college-level reading, writing and thinking to ensure success in your studies at Temple. Our courses will encourage you to ask difficult questions, explore ideas from multiple perspectives, and reflect upon your development as a writer and a scholar. You will work collaboratively with your peers, and you will meet one-on-one with your professor at least twice a semester. Our faculty are dedicated to teaching writing, and you will find that they care about your progress almost as much as you do! 
 
-English 0701 and English 0802 and the ESL equivalents form a year-long sequence designed to introduce students to academic discourse. Entering first-year students are either placed into the 0701/0802 sequence, placed only in 0802, or exempted from first-year writing courses entirely.
+In addition, you will have a chance to get to know other students in a small class setting, and you will come in contact with new ideas and academic strategies that will be useful in your other courses and college experiences. Students report that their First Year Writing courses are enlightening and thought-provoking, and they often say that they have learned the value of seeing writing as a process in our courses. Even if you enter the university with solid writing skills, you will find that your skills are meaningfully improved and refined through your First Year Writing courses. 
 
-Placement into First Year Writing courses is determined by Institutional Research and Assessment. Information on English placement can be found on the [Online Placement Assessments/NSQ Information page](https://atlas.ocis.temple.edu/MarcPlmts/Splash.html). Questions about placement can be directed to placements@temple.edu or 215-204-8611.
-
+If you have any questions about the First-Year Writing Program, we invite you to stop by the office or contact us via phone or email. The Main Campus office of the First Year Writing Program is room 1046 in Anderson Hall, which is at 1114 Polett Walk, between 11th and 12th Streets and between Montgomery and Berks Streets.
 ___
