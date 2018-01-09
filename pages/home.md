@@ -6,8 +6,8 @@ description: >-
 keywords: ''
 feature: true
 feature-title: null
-feature-image: null
-feature-body: null
+feature-image: media/FYWP image.jpeg
+feature-body: true
 published: true
 ---
 Welcome to First Year Writing at Temple University! Our program is designed to introduce you to college-level reading, writing and thinking to ensure success in your studies at Temple. Our courses will encourage you to ask difficult questions, explore ideas from multiple perspectives, and reflect upon your development as a writer and a scholar. You will work collaboratively with your peers, and you will meet one-on-one with your professor at least twice a semester. Our faculty are dedicated to teaching writing, and you will find that they care about your progress almost as much as you do! 
@@ -36,4 +36,3 @@ ___
    Darla Himeles    
    [(215) 204-1566](tel:2152041566)  
    [darla.himeles@temple.edu](mailto:darla.himeles@temple.edu)  
----
