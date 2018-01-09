@@ -4,8 +4,8 @@ permalink: /
 layout: home3
 description: >-
 keywords: ''
-feature: null
-feature-title: null
+feature: true
+feature-title: true
 feature-image: media/FYWP image.jpeg
 feature-body: >-
  Need a short description to introduce
