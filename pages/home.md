@@ -5,13 +5,13 @@ layout: home3
 description: >-
 keywords: ''
 feature: true
-feature-title: 
+feature-title: true
 feature-image: media/FYWP hero_bg.png
 feature-body: >-
 Our program is designed to introduce you to college-level reading, writing and thinking to ensure 
 success in your studies at Temple. Our courses will encourage you to ask difficult questions, explore 
-ideas from multiple perspectives, and reflect upon your development as a writer and a scholar.**(THIS IS
-A PLACEHOLDER, I NEED ANOTHER DESCRIPTION LIKE THIS FOR THIS INTRO SECTION).**
+ideas from multiple perspectives, and reflect upon your development as a writer and a scholar.THIS IS
+A PLACEHOLDER, I NEED ANOTHER DESCRIPTION LIKE THIS FOR THIS INTRO SECTION.
 published: true
 ---
 Welcome to First Year Writing at Temple University! Our program is designed to introduce you to college-level reading, writing and thinking to ensure success in your studies at Temple. Our courses will encourage you to ask difficult questions, explore ideas from multiple perspectives, and reflect upon your development as a writer and a scholar. You will work collaboratively with your peers, and you will meet one-on-one with your professor at least twice a semester. Our faculty are dedicated to teaching writing, and you will find that they care about your progress almost as much as you do! 
