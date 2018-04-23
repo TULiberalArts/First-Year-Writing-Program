@@ -6,7 +6,7 @@ description: >-
 keywords: ''
 feature: true
 feature-title: Your Path to Analytical Reading and Writing Begins Here!
-feature-image: media/FYWP hero_no hue.png
+feature-image: media/FYWP hero_bg.png
 feature-body: >-
  Our program is designed to introduce you to college-level reading, writing and thinking to ensure 
  success in your studies at Temple. Our courses will encourage you to ask difficult questions, explore 
