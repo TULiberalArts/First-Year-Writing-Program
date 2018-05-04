@@ -2,7 +2,7 @@
 title: Next Stops
 permalink: /next-stops/
 layout: page
-keywords: ''
+keywords: 'english major, course offerings, media, major, minor'
 description: >-
 published: true
 ---
