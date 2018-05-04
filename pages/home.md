@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: ''
+keywords: 'introduction writing courses, reading, first year writing program'
 feature: true
 feature-title: Your Path to Analytical Reading and Writing Begins Here!
 feature-image: media/FYWP hero_bg.png
