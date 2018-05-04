@@ -1,7 +1,7 @@
 ---
 title: Resources
 permalink: /resources/
-keywords: ''
+keywords: 'english courses, center for learning, writing center, disability resources care team'
 description: >- 
 layout: page
 published: true
