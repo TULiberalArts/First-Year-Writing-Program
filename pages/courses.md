@@ -11,7 +11,7 @@ keywords: 'english courses, sample syllabi, english placement'
 published: true
 # custom variables
 sidebar: true
-sidebar_content: sidebars/undergraduate.html  
+sidebar_content: sidebars/courses.html  
 ---
 We offer two courses, English 0701 and English 0802, each of which has equivalent courses for students who have learned English as a Second Language (ESL). These courses provide a year-long sequence of writing instruction. About a quarter of all students take English 0701 and the rest go into English 0802. Placement into your First Year Writing course or courses is determined by [Institutional Research and Assessment](https://atlas.ocis.temple.edu/MarcPlmts/Splash.html). If you have questions about your placement, you may write to [placements@temple.edu](mailto:placements@temple.edu) or call [215-204-8611](tel:2152048611).
 
