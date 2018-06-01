@@ -1,30 +1,15 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-keywords: 'english courses, center for learning, writing center, disability resources care team'
-description: >- 
-layout: page
 published: true
+# meta-data variables
+title: Resources
+description: >- 
+keywords: 'english courses, center for learning, writing center, disability resources care team'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Director:**  
-   Rachael Groner     
-   [(215)204-2212](tel:2152042212)    
-   [rgroner@temple.edu](mailto:rgroner@temple.edu)    
-   
-   ___
-   
-   **Associate Director:**  
-   Cate Almon   
-   [(215)204-1820](tel:2152041820)    
-   [calmon@temple.edu](mailto:calmon@temple.edu)  
-   
-   ___
-   
-   **Composition Assistant:**  
-   Darla Himeles    
-   [(215) 204-1566](tel:2152041566)  
-   [darla.himeles@temple.edu](mailto:darla.himeles@temple.edu)  
+sidebar_content: sidebars/resources.html  
 ---
 - [The English 0802/0812/0902 Library Course Guide](http://guides.temple.edu/english802): Our librarians have put together a course guide for all students in English 0802 and beyond. It contains links and information about conducting academic research at Temple at all levels, and it is especially helpful in the context of your First Year Writing class. 
 
