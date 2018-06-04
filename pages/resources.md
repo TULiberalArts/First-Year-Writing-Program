@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Resources
 description: >- 
+  Explore English resources available to you at Temple University, such as the Library Course Guide, the Writing Center, 
+  the Center for Learning and Student Success, Disability Resources and Services, and the CARE Team.
 keywords: 'english courses, center for learning, writing center, disability resources care team'
 # custom variables
 sidebar: true
