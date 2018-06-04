@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+ Learn the value of seeing writing as a process in Temple University’s First Year Writing Program.
+ Get introduced to college-level reading, writing, and thinking at the College of Liberal Arts.
 keywords: 'introduction writing courses, reading, first year writing program'
 # custom variables
 sidebar: false
