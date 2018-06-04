@@ -6,7 +6,9 @@ permalink: /courses/
 published: true
 # meta-data variables
 title: Courses
-description: >- 
+description: >-
+  English 0701 and English 0802 will provide a year-long sequence of writing instruction. Placement into
+  these english courses at Temple University’s College of Liberal Arts are determined by Institutional Research and Assessment.
 keywords: 'english courses, sample syllabi, english placement'
 published: true
 # custom variables
