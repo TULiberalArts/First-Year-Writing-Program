@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  For more courses in English at Temple University, check out the undergraduate page on the English Department
+  website. Explore majors, minors, and certificates in English at the College of Liberal Arts.
 keywords: 'english major, course offerings, media, major, minor'
 # custom variables
 sidebar: false
