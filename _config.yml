@@ -5,6 +5,8 @@ title: First Year Writing Program
 baseurl: /first-year-writing-program
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/first-year-writing-program
 
 
 # Program Information
