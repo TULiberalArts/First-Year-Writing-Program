@@ -12,7 +12,7 @@ keywords: 'introduction writing courses, reading, first year writing program'
 # custom variables
 sidebar: false
 feature: true
-feature-title: Your Path to Analytical Reading and Writing Begins Here!
+feature-title: Welcome to First Year Writing at Temple University!
 feature-image: media/FYWP hero_bg.png
 feature-body: >-
  Our program is designed to introduce you to college-level reading, writing and thinking to ensure 
