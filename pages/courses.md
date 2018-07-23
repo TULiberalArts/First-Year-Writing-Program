@@ -22,7 +22,7 @@ Introduction to Academic Discourse develops the reading skills, writing skills, 
 
 **Sample Syllabi:**
 - [English 0701](https://liberalarts.temple.edu/sites/liberalarts/files/MW%20ENG%20701%20syllabus%20for%20TSIS%20with%20readings%2018-19.docx)
-- [English 0711](https://liberalarts.temple.edu/sites/liberalarts/files/English%20711%20Syllabus-TTh-17F.docx)
+- [English 0711](https://liberalarts.temple.edu/sites/liberalarts/files/English%20711%20Syllabus-MW-18F.docx)
 
 ___
 
@@ -31,4 +31,4 @@ Analytical Reading and Writing is one of the foundation Gen Ed courses required 
 
 **Sample Syllabi:**
 - [English 0802](https://liberalarts.temple.edu/sites/liberalarts/files/English%20802%20Syllabus%20for%20Fall%202018.docx)
-- [English 0812](https://liberalarts.temple.edu/sites/liberalarts/files/English%20812%20Syllabus-TR-17F.docx)
+- [English 0812](https://liberalarts.temple.edu/sites/liberalarts/files/English%20812%20Syllabus-MW-18F.docx)
