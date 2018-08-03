@@ -7,7 +7,7 @@ First Year Writing Program is statically generated with [Jekyll](https://jekyllr
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/first-year-writing-program/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/first-year-writing-program/ |
 
 ## Content Structure
 
