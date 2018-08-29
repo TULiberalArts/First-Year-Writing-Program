@@ -22,3 +22,28 @@ Our program is designed to introduce you to college-level reading, writing and t
 In addition, you will have a chance to get to know other students in a small class setting, and you will come in contact with new ideas and academic strategies that will be useful in your other courses and college experiences. Students report that their First Year Writing courses are enlightening and thought-provoking, and they often say that they have learned the value of seeing writing as a process in our courses. Even if you enter the university with solid writing skills, you will find that your skills are meaningfully improved and refined through your First Year Writing courses.
 
 If you have any questions about the First-Year Writing Program, we invite you to stop by the office or contact us via phone or email. The Main Campus office of the First Year Writing Program is room 1046 in Anderson Hall, which is at 1114 Polett Walk, between 11th and 12th Streets and between Montgomery and Berks Streets.
+
+___
+
+  **Director:**  
+   Rachael Groner  
+   347 Anderson Hall  
+   [(215) 204-2212](tel:2152042212)  
+   [rgroner@temple.edu](mailto:rgroner@temple.edu)  
+   
+   ___
+   
+   **Associate Director:**  
+   Cate Almon  
+   429 Anderson Hall   
+   [(215) 204-1820](tel:2152041820)  
+   [calmon@temple.edu](mailto:calmon@temple.edu)  
+   
+   ___
+   
+   **Composition Assistant:**  
+   Micah Savaglio         
+   [tuf75342@temple.edu](mailto:tuf75342@temple.edu)  
+   
+___
+   
