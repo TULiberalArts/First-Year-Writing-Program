@@ -43,8 +43,8 @@ ___
    ___
    
    **Composition Assistant:**  
-   Micah Savaglio         
-   [tuf75342@temple.edu](mailto:tuf75342@temple.edu)  
+   Alyssa Luck      
+   [alyssa.luck@temple.edu](mailto:alyssa.luck@temple.edu)  
    
 ___
    
