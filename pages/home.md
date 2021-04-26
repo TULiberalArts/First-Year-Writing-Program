@@ -40,11 +40,5 @@ ___
    [(215) 204-1820](tel:2152041820)  
    [calmon@temple.edu](mailto:calmon@temple.edu)  
    
-   ___
-   
-   **Composition Assistant:**  
-   Alyssa Luck      
-   [alyssa.luck@temple.edu](mailto:alyssa.luck@temple.edu)  
-   
 ___
    
